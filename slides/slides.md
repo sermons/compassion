@@ -8,6 +8,14 @@
 + v11-12: great: love, forgiveness
 + v13-14: small: as children, dust
 
+______
+Rescuer of My Soul
++ v2 benefits: dealings, full interaction, wean
++ v3: healer of body + soul
++ v4: redeemer from pit to glory
++ v5: provider of strength + satisfaction
++ v6-7: rescuer + advocate
+
 ---
 <!-- .slide: data-background="white" -->
 # Opening **Question**
