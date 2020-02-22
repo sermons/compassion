@@ -2,12 +2,6 @@
 # Compassionate Father
 ## Psalm 103:8-14
 
->>>
-+ v8: intro: compassion, grace
-+ v9-10: not: anger, according to our sins
-+ v11-12: great: love, forgiveness
-+ v13-14: small: as children, dust
-
 ---
 <!-- .slide: data-background="white" -->
 # Opening **Question**
@@ -64,6 +58,12 @@ he remembers that we are dust.
 ---
 ## outline
 
+>>>
++ v8: intro: compassion, grace
++ v9-10: not: anger, according to our sins
++ v11-12: great: love, forgiveness
++ v13-14: small: as children, dust
+
 ---
 The Lord is **merciful** and **gracious**,
 
@@ -97,6 +97,10 @@ nor **repay** us according to **our iniquities**.
 [Psalm 103:9-10 (ESV)](# "ref")
 
 ---
+<!-- .slide: data-background="white" -->
+# Q1
+
+---
 ## outline
 
 ---
@@ -112,6 +116,10 @@ so far does he remove  <br>
 **our transgressions** from us.
 
 [Psalm 103:11-12 (ESV)](# "ref")
+
+---
+<!-- .slide: data-background="white" -->
+# Q2
 
 ---
 ## outline
@@ -131,4 +139,9 @@ he remembers that **we are dust**.
 [Psalm 103:13-14 (ESV)](# "ref")
 
 ---
+<!-- .slide: data-background="white" -->
+# Q3
+
+---
+<!-- .slide: <%= bg("unsplash-Jztmx9yqjBw-stars.jpg") %> class="empty" -->
 
