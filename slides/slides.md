@@ -33,7 +33,7 @@ He does not deal with us  <br>
 according to our sins, <br>
 nor repay us according to our iniquities.
 
-[Psalm 103:8-14 (ESV) (p.1/4)](# "ref")
+[Psalm 103:8-14 (ESV) (p.2/4)](# "ref")
 
 ******
 [11](# "ref") 
@@ -47,7 +47,7 @@ as far as the east is from the west, <br>
 so far does he remove  <br>
 our transgressions from us.
 
-[Psalm 103:8-14 (ESV) (p.1/4)](# "ref")
+[Psalm 103:8-14 (ESV) (p.3/4)](# "ref")
 
 ******
 [13](# "ref") 
@@ -59,7 +59,7 @@ to those who fear him.
 For he knows our frame; <br>
 he remembers that we are dust.
 
-[Psalm 103:8-14 (ESV) (p.1/4)](# "ref")
+[Psalm 103:8-14 (ESV) (p.4/4)](# "ref")
 
 ---
 ## outline
@@ -118,7 +118,9 @@ so far does he remove  <br>
 
 ---
 [13](# "ref") 
-As a **father** shows compassion to his **children**, <br>
+As a **father** shows compassion <br>
+to his **children**,
+
 so the Lord shows **compassion**  <br>
 to those who fear him.
 
