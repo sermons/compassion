@@ -72,6 +72,18 @@ abounding in steadfast love.
 
 [Psalm 103:8 (ESV)](# "ref")
 
+>>>
++ compassion: deep love 
+  + often from superior to **inferior**
+  + rooted in a natural **bond**
+  + e.g., toward **babies**
++ grace: love in **action**
+  + also superior to inferior
+  + unearned **choice**
+
+---
+[Exodus 33:19 (ESV)](# "ref")
+
 ---
 [9](# "ref")
 He will not always **chide**, <br>
