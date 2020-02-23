@@ -130,9 +130,9 @@ he remembers that we are dust.
 ---
 <!-- .slide: <%= bg("unsplash-FrlCwXwbwkk-grass.jpg") %> id="outline" class="outline" --> 
 ## Compassionate Father
-1. The Injustice of God's Grace [(v9-10)](# "ref")
-1. The Immensity of God's Love [(v11-12)](# "ref")
-1. The Insignificance of our Strength [(v13-14)](# "ref")
+1. The **Injustice** of God's Grace [(v9-10)](# "ref")
+1. The **Immensity** of God's Love [(v11-12)](# "ref")
+1. The **Insignificance** <br> of our Strength [(v13-14)](# "ref")
 
 >>>
 + not: anger, according to our sins
@@ -232,7 +232,7 @@ nor **repay** us according to **our iniquities**.
 ## Compassionate Father
 1. The Injustice of God's Grace [(v9-10)](# "ref")
 1. **The Immensity of God's Love** [(v11-12)](# "ref")
-1. The Insignificance of our Strength [(v13-14)](# "ref")
+1. The Insignificance <br> of our Strength [(v13-14)](# "ref")
 
 ---
 <!-- .slide: <%= bg("unsplash-Jztmx9yqjBw-stars.jpg") %> -->
@@ -293,7 +293,7 @@ so far does he remove  <br>
 ## Compassionate Father
 1. The Injustice of God's Grace [(v9-10)](# "ref")
 1. The Immensity of God's Love [(v11-12)](# "ref")
-1. **The Insignificance of our Strength** [(v13-14)](# "ref")
+1. **The Insignificance <br> of our Strength** [(v13-14)](# "ref")
 
 ---
 <!-- .slide: <%= bg("unsplash-oUhSla4L_98-father_daughter.jpg") %> -->
