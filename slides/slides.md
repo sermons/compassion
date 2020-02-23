@@ -125,22 +125,34 @@ he remembers that we are dust.
 ---
 The Lord is **merciful** and **gracious**,
 
-slow to anger and  <br>
-abounding in steadfast love.
+slow to **anger** and  <br>
+abounding in **steadfast love**.
 
 [Psalm 103:8 (ESV)](# "ref")
 
 >>>
-+ compassion: deep love 
++ compassion: deep **feeling** of love
   + often from superior to **inferior**
   + rooted in a natural **bond**
   + e.g., toward **babies**
 + grace: love in **action**
   + also superior to inferior
   + unearned **choice**
++ not that God **never** gets angry
+  + but not **eager** to
+  + does not **revel** in it
 
 ---
-[Exodus 33:19 (ESV)](# "ref")
+“I will have **mercy** on whom I have mercy,<br>
+and I will have **compassion**<br>
+on whom I have compassion.”
+
+[16](# "ref")
+So then it depends not on<br>
+human **will** or **exertion**,<br>
+but on **God**, who has mercy.
+
+[Romans 9:15-16 (quoting Exodus 33:19) (ESV)](# "ref")
 
 ---
 [9](# "ref")
