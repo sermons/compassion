@@ -8,6 +8,20 @@
 
 >>>
 
+---
+<!-- .slide: <%= bg("unsplash-TStNU7H4UEE-hand_sunset.jpg") %> class="outline" -->
+## Rescuer of My Soul
+1. **Healer** of Body + Soul [(v3)](# "ref")
+1. **Lifter** from Pit to Glory [(v4)](# "ref")
+1. **Supplier** of Strength <br> and Satisfaction [(v5)](# "ref")
+1. **Rescuer** and Advocate [(v6)](# "ref")
+
+>>>
+review:
++ **benefits**: dealings w/man
++ **character** of God exhibited
+  + in His **actions** toward us
+
 ******
 [1](# "ref")
 Bless the Lord, O my soul,<br>
@@ -104,11 +118,6 @@ he remembers that we are dust.
 1. The Insignificance of our Strength [(v13-14)](# "ref")
 
 >>>
-+ review:
-  + **healer** of body + soul
-  + **lifter** from pit to glory
-  + **supplier** of strength + satis
-  + **rescuer** and advocate
 + not: anger, according to our sins
 + great: love, forgiveness
 + small: as children, dust
