@@ -9,13 +9,55 @@
 >>>
 
 ******
+[1](# "ref")
+Bless the Lord, O my soul,<br>
+and all that is within me,<br>
+bless his holy name!
+
+[2](# "ref")
+Bless the Lord, O my soul,<br>
+and forget not all his benefits,
+
+[Psalm 103:1-14 (ESV) (p.1/7)](# "ref")
+
+******
+
+[3](# "ref")
+who forgives all your iniquity,<br>
+who heals all your diseases,
+
+[4](# "ref")
+who redeems your life from the pit,<br>
+who crowns you with <br>
+steadfast love and mercy,
+
+[Psalm 103:1-14 (ESV) (p.2/7)](# "ref")
+
+******
+
+[5](# "ref")
+who satisfies you with good<br>
+so that your youth is renewed <br>
+like the eagle's.
+
+[6](# "ref")
+The Lord works righteousness<br>
+and justice for all who are oppressed.
+
+[7](# "ref")
+He made known his ways to Moses,<br>
+his acts to the people of Israel.
+
+[Psalm 103:1-14 (ESV) (p.3/7)](# "ref")
+
+******
 [8](# "ref")
 The Lord is merciful and gracious,
 
 slow to anger and  <br>
 abounding in steadfast love.
 
-[Psalm 103:8-14 (ESV) (p.1/4)](# "ref")
+[Psalm 103:1-14 (ESV) (p.4/7)](# "ref")
 
 ******
 [9](# "ref") 
@@ -27,7 +69,7 @@ He does not deal with us  <br>
 according to our sins, <br>
 nor repay us according to our iniquities.
 
-[Psalm 103:8-14 (ESV) (p.2/4)](# "ref")
+[Psalm 103:1-14 (ESV) (p.5/7)](# "ref")
 
 ******
 [11](# "ref") 
@@ -41,7 +83,7 @@ as far as the east is from the west, <br>
 so far does he remove  <br>
 our transgressions from us.
 
-[Psalm 103:8-14 (ESV) (p.3/4)](# "ref")
+[Psalm 103:1-14 (ESV) (p.6/7)](# "ref")
 
 ******
 [13](# "ref") 
@@ -53,7 +95,7 @@ to those who fear him.
 For he knows our frame; <br>
 he remembers that we are dust.
 
-[Psalm 103:8-14 (ESV) (p.4/4)](# "ref")
+[Psalm 103:1-14 (ESV) (p.7/7)](# "ref")
 
 ---
 ## Compassionate Father
