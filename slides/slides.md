@@ -4,7 +4,7 @@
 
 ---
 <!-- .slide: data-background="white" -->
-# Opening **Question**
+# How do we learn **compassion**?
 
 >>>
 
@@ -56,13 +56,15 @@ he remembers that we are dust.
 [Psalm 103:8-14 (ESV) (p.4/4)](# "ref")
 
 ---
-## outline
+## Compassionate Father
+1. The Injustice of God's Grace [(v9-10)](# "ref")
+1. The Immensity of God's Love [(v11-12)](# "ref")
+1. The Insignificance of our Strength [(v13-14)](# "ref")
 
 >>>
-+ v8: intro: compassion, grace
-+ v9-10: not: anger, according to our sins
-+ v11-12: great: love, forgiveness
-+ v13-14: small: as children, dust
++ not: anger, according to our sins
++ great: love, forgiveness
++ small: as children, dust
 
 ---
 The Lord is **merciful** and **gracious**,
