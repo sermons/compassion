@@ -1,4 +1,4 @@
-<!-- .slide: <%= bg("unsplash-Jztmx9yqjBw-stars.jpg") %> id="title" -->
+<!-- .slide: <%= bg("unsplash-FrlCwXwbwkk-grass.jpg") %> id="title" --> 
 # Compassionate Father
 ## Psalm 103:8-14 (pt2/2)
 
@@ -128,6 +128,7 @@ he remembers that we are dust.
 [Psalm 103:1-14 (ESV) (p.7/7)](# "ref")
 
 ---
+<!-- .slide: <%= bg("unsplash-FrlCwXwbwkk-grass.jpg") %> id="outline" class="outline" --> 
 ## Compassionate Father
 1. The Injustice of God's Grace [(v9-10)](# "ref")
 1. The Immensity of God's Love [(v11-12)](# "ref")
@@ -139,12 +140,14 @@ he remembers that we are dust.
 + small: as children, dust
 
 ---
+<!-- .slide: <%= bg("unsplash-EpbIXGCrtK0-baby_feet.jpg") %> -->
 The Lord is **merciful** and **gracious**,
 
 slow to **anger** and  <br>
 abounding in **steadfast love**.
 
 [Psalm 103:8 (ESV)](# "ref")
+[Janko Ferlič, Koper, Slovenia](https://unsplash.com/photos/EpbIXGCrtK0 "caption")
 
 >>>
 + not that God **never** gets angry
@@ -161,6 +164,7 @@ abounding in **steadfast love**.
   + unearned **choice**
 
 ---
+<!-- .slide: <%= bg("earth.jpg") %> -->
 “I will have **mercy** on whom I have mercy,<br>
 and I will have **compassion**<br>
 on whom I have compassion.”
@@ -179,6 +183,7 @@ but on **God**, who has mercy.
 + bc what we **deserve** is His **anger**:
 
 ---
+<!-- .slide: <%= bg("unsplash-pHR_S0PeOF0-hands.jpg") %> -->
 He will not always **chide**, <br>
 nor will he keep his **anger** forever.
 
@@ -188,6 +193,7 @@ according to **our sins**, <br>
 nor **repay** us according to **our iniquities**.
 
 [Psalm 103:9-10 (ESV)](# "ref")
+[Milada Vigerova](https://unsplash.com/photos/pHR_S0PeOF0 "caption")
 
 >>>
 + how often our words full of **complaints** 
@@ -222,9 +228,14 @@ nor **repay** us according to **our iniquities**.
 + do we **long** to be merciful?
 
 ---
-## outline
+<!-- .slide: <%= bg("unsplash-FrlCwXwbwkk-grass.jpg") %> class="outline" --> 
+## Compassionate Father
+1. The Injustice of God's Grace [(v9-10)](# "ref")
+1. **The Immensity of God's Love** [(v11-12)](# "ref")
+1. The Insignificance of our Strength [(v13-14)](# "ref")
 
 ---
+<!-- .slide: <%= bg("unsplash-Jztmx9yqjBw-stars.jpg") %> -->
 For as high as the **heavens**  <br>
 are above the **earth**,
 
@@ -232,6 +243,7 @@ so great is his **steadfast love**  <br>
 toward those who **fear him**
 
 [Psalm 103:11 (ESV)](# "ref")
+[Ryan Hutton](https://unsplash.com/photos/Jztmx9yqjBw "caption")
 
 >>>
 + how to deal when **attacked**?
@@ -252,12 +264,14 @@ toward those who **fear him**
   + focus on **following** the direction Christ leads:
 
 ---
+<!-- .slide: <%= bg("unsplash-p0W9Q9gei4g-silhouette.jpg") %> -->
 as far as the **east** is from the **west**,
 
 so far does he remove  <br>
 **our transgressions** from us.
 
 [Psalm 103:12 (ESV)](# "ref")
+[Alex Jones](https://unsplash.com/photos/p0W9Q9gei4g "caption")
 
 >>>
 + east + west are not **locations**
@@ -275,9 +289,14 @@ so far does he remove  <br>
 + as **heavens** above the earth
 
 ---
-## outline
+<!-- .slide: <%= bg("unsplash-FrlCwXwbwkk-grass.jpg") %> class="outline" --> 
+## Compassionate Father
+1. The Injustice of God's Grace [(v9-10)](# "ref")
+1. The Immensity of God's Love [(v11-12)](# "ref")
+1. **The Insignificance of our Strength** [(v13-14)](# "ref")
 
 ---
+<!-- .slide: <%= bg("unsplash-oUhSla4L_98-father_daughter.jpg") %> -->
 [13](# "ref") 
 As a **father** shows compassion <br>
 to his **children**,
@@ -290,6 +309,7 @@ For he knows our **frame**; <br>
 he remembers that **we are dust**.
 
 [Psalm 103:13-14 (ESV)](# "ref")
+[Steven Van Loy, Biarritz, France](https://unsplash.com/photos/oUhSla4L_98 "caption")
 
 >>>
 + we get so **proud** of our earned status / position
@@ -311,6 +331,7 @@ he remembers that **we are dust**.
   + mandate of **John the Baptist**:
 
 ---
+<!-- .slide: <%= bg("unsplash-WJkc3xZjSXw-trees_overhead.jpg") %> -->
 And he will go **before** him <br>
 in the spirit and power of **Elijah**,
 
@@ -322,6 +343,7 @@ and the **disobedient** to the wisdom of the **just**,
 to make **ready** for the Lord a people **prepared**.”
 
 [Luke 1:17 (ESV)](# "ref")
+[Geran de Klerk, Gävle, Sweden](https://unsplash.com/photos/WJkc3xZjSXw "caption")
 
 >>>
 + **fathers**: take a moment just to **look** at your child
@@ -340,5 +362,4 @@ to make **ready** for the Lord a people **prepared**.”
 # Am I the small **child** before the compassionate **Father**?
 
 ---
-<!-- .slide: <%= bg("unsplash-Jztmx9yqjBw-stars.jpg") %> class="empty" -->
-
+<!-- .slide: <%= bg("unsplash-FrlCwXwbwkk-grass.jpg") %> class="empty" -->
