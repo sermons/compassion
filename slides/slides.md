@@ -104,6 +104,11 @@ he remembers that we are dust.
 1. The Insignificance of our Strength [(v13-14)](# "ref")
 
 >>>
++ review:
+  + **healer** of body + soul
+  + **lifter** from pit to glory
+  + **supplier** of strength + satis
+  + **rescuer** and advocate
 + not: anger, according to our sins
 + great: love, forgiveness
 + small: as children, dust
