@@ -1,7 +1,7 @@
 # Compassionate Father
 ## Psalm 103:8-14
 
-[![Build status](https://api.travis-ci.org/sermons/compassion.svg)](https://travis-ci.org/github/sermons/compassion)
+[![Build status](https://api.travis-ci.com/sermons/compassion.svg)](https://travis-ci.com/github/sermons/compassion)
 [![Node deps](https://david-dm.org/sermons/compassion.svg)](https://david-dm.org/sermons/compassion)
 [![Node devDeps](https://david-dm.org/sermons/compassion/dev-status.svg)](https://david-dm.org/sermons/compassion?type=dev)
 
