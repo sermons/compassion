@@ -1,6 +1,6 @@
 <!-- .slide: <%= bg("unsplash-FrlCwXwbwkk-grass.jpg") %> id="title" --> 
 # Compassionate Father
-## Psalm 103:8-14 (pt2/2)
+## Psalm 103:8-14
 
 ---
 <!-- .slide: data-background="white" -->
@@ -150,18 +150,19 @@ abounding in **steadfast love**.
 [Janko Ferlič, Koper, Slovenia](https://unsplash.com/photos/EpbIXGCrtK0 "caption")
 
 >>>
-+ not that God **never** gets angry
-  + but not **eager** to
-  + does not **revel** in it
-  + is **just** in His anger
-  + **desires** to show mercy:
-+ compassion: deep **feeling** of love
++ **combo** compassionate + gracious: 11x in OT
++ compassion ("merciful"): deep **feeling** of love
   + often from superior to **inferior**
-  + rooted in a natural **bond**
-  + e.g., toward **babies**
-+ grace: love in **action**
+  + rooted in natural **bond**, e.g., to **babies**
++ grace: gifts, love in **action**
   + also superior to inferior
-  + unearned **choice**
+  + by unearned **choice**
++ slow to **anger** ("long nostrils"): 
+  + forcible exhalation, hot **breath** of wrath
++ not that God **never** gets angry, but
+  + not **eager** or **fickle** in punishment
++ **just** in His anger, **desires** to show mercy:
++ steadfast **love** (chesed): covenant lovingkindness
 
 ---
 <!-- .slide: <%= bg("earth.jpg") %> -->
@@ -185,7 +186,7 @@ but on **God**, who has mercy.
 ---
 <!-- .slide: <%= bg("unsplash-pHR_S0PeOF0-hands.jpg") %> -->
 He will not always **chide**, <br>
-nor will he keep his **anger** forever.
+nor will he **keep** his anger forever.
 
 [10](# "ref") 
 He does not **deal** with us  <br>
@@ -196,6 +197,10 @@ nor **repay** us according to **our iniquities**.
 [Milada Vigerova](https://unsplash.com/photos/pHR_S0PeOF0 "caption")
 
 >>>
++ "chide": **strive**, contend, lawsuit/battle
+  + "keep" ("anger" only implied): **preserve**, maintain
++ "deal": **make**
+  + "repay": **settle accounts**, make full, ripe/wean
 + how often our words full of **complaints** 
   + parents: kids never **listen**
   + kids: parents only care about **academics**
@@ -208,7 +213,7 @@ nor **repay** us according to **our iniquities**.
   + God's **immense** glory + holiness
 + the reality is God is **not** fair to us
   + He **chooses** to show us grace
-+ will I be choose **grace** toward others?
++ will I choose **grace** toward others?
   + "but they don't **deserve** my respect!"
   + no they **don't**
 + nor did I deserve Christ's **sacrifice**
@@ -246,6 +251,7 @@ toward those who **fear him**
 [Ryan Hutton](https://unsplash.com/photos/Jztmx9yqjBw "caption")
 
 >>>
++ "great": not **size** but **power**, force, strength
 + how to deal when **attacked**?
   + time to **vent** own anger?
   + "oh, you wanna dance? ok, **bring it!**"
@@ -254,8 +260,8 @@ toward those who **fear him**
   + not to **build**
 + instead, remember the **immensity** of God's love
   + **stars** / galaxies formed by God
-+ **earth** only a small **speck**
-  + rest of the **universe** is the heavens!
++ **earth**: only a small **speck**
+  + "heavens above": rest of the **universe**!
 + so the **hurt** / brokenness is so **tiny**
   + compared to the incomprehensible 
   + **vastness** of God's love toward us
@@ -277,6 +283,8 @@ so far does he remove  <br>
 + east + west are not **locations**
   + w/fixed **distance**
 + but **directions**: orientation, aim, goal, focus
++ not about God removing **trials** or sorrows from us
+  + but our spirit of **rebellion**
 + God's **forgiveness** changes our **aim**
 
 ---
@@ -312,6 +320,13 @@ he remembers that **we are dust**.
 [Steven Van Loy, Biarritz, France](https://unsplash.com/photos/oUhSla4L_98 "caption")
 
 >>>
++ **compassion**: as v8 "compassionate + gracious"
++ to those who **fear** Him:
+  + natural **bond** w/own children
++ we have no natural **right**/entitlement to any bond w/God
+  + but **adopted** in Christ
++ e.g., JJ drawing: **hearts** connected
++ if **mother** forgets her infant, **God** won't forget us
 + we get so **proud** of our earned status / position
   + edu, **job** title
   + responsibilities at **church**
