@@ -4,54 +4,35 @@
 
 ---
 <!-- .slide: data-background="white" -->
-# What is a good **father** like?
+# Q0
 
 >>>
-+ not many good **examples** in our world
-+ **provider**: college fund
-  + always picks up restaurant **bill**
-+ **work ethic**: responsible, fulfills promises
-+ **faithful**: i.e., doesn't **cheat** on wife
-+ mostly about what **not** to do:
-  + don't be a **deadbeat**, liar, cheater
-  + **stress**: don't **mess up**
-+ Ps103 highlights what God **does**
-  + as our perfect **Father**
-+ **example** for parents to learn from
-  + **encouragement** for kids who feel
-    the shortcomings of their earthly fathers
 + for **all** of us:
   + take **comfort** knowing God is the God of compassion
   + take **courage** to show compassion to one another
 
 ---
-<!-- .slide: <%= bg("unsplash-TStNU7H4UEE-hand_sunset.jpg") %> class="outline" -->
-## Rescuer of My Soul (pt1/2)
-1. **Healer** of Body + Soul [(v3)](# "ref")
-1. **Lifter** from Pit to Glory [(v4)](# "ref")
-1. **Supplier** of Strength <br> and Satisfaction [(v5)](# "ref")
-1. **Rescuer** and Advocate [(v6)](# "ref")
-
->>>
-review:
-+ **benefits**: dealings w/man
-+ **character** of God exhibited
-  + in His **actions** toward us
-
-******
+<!-- .slide: <%= bg("unsplash-TStNU7H4UEE-hand_sunset.jpg") %> -->
 [1](# "ref")
-Bless the Lord, O my soul,<br>
+**Bless** the Lord, O my soul,<br>
 and all that is within me,<br>
 bless his holy name!
 
 [2](# "ref")
 Bless the Lord, O my soul,<br>
-and forget not all his benefits,
+and forget not all his **benefits**,
 
-[Psalm 103:1-14 (ESV) (p.1/7)](# "ref")
+[Psalm 103:1-2 (ESV)](# "ref")
+
+>>>
+Review:
++ Reading Bible: authored by **God**, for **our** benefit
+  + About **God**, about **us**, **command**, or **promise**
++ **benefits**: dealings w/man
++ **character** of God exhibited
+  + in His **actions** toward us
 
 ******
-
 [3](# "ref")
 who forgives all your iniquity,<br>
 who heals all your diseases,
@@ -64,7 +45,6 @@ steadfast love and mercy,
 [Psalm 103:1-14 (ESV) (p.2/7)](# "ref")
 
 ******
-
 [5](# "ref")
 who satisfies you with good<br>
 so that your youth is renewed <br>
@@ -163,6 +143,15 @@ abounding in **steadfast love**.
   + not **eager** or **fickle** in punishment
 + **just** in His anger, **desires** to show mercy:
 + steadfast **love** (chesed): covenant lovingkindness
++ How God **intro** self to Moses on Mt. Sinai:
+  + Descended in **cloud**, passed before him:
+
+---
+The Lord, the Lord, a God **merciful** and **gracious**, <br>
+slow to **anger**, and abounding in <br>
+**steadfast love** and faithfulness
+
+[Exodus 34:6 (ESV)](# "ref")
 
 ---
 <!-- .slide: <%= bg("earth.jpg") %> -->
@@ -262,10 +251,9 @@ toward those who **fear him**
   + **stars** / galaxies formed by God
 + **earth**: only a small **speck**
   + "heavens above": rest of the **universe**!
-+ so the **hurt** / brokenness is so **tiny**
-  + compared to the incomprehensible 
-  + **vastness** of God's love toward us
-+ be the one who **fears** the Lord
++ Those w/**infants** / small children:
+  + Teach + demonstrate how **big** God's love is
++ Be the one who **fears** the Lord
   + **trust** + obey
   + focus on **following** the direction Christ leads:
 
