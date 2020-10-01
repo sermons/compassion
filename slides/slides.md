@@ -4,7 +4,7 @@
 
 ---
 <!-- .slide: data-background="white" -->
-# Q0
+# Is God **good**?
 
 >>>
 + for **all** of us:
