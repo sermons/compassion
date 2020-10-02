@@ -228,20 +228,18 @@ nor **repay** us according to **our iniquities**.
   + "everything will be **ok**"
 + No, God is a **holy** God: 
   + sin is a **serious** issue to God
-+ e.g., systematic **racism** in policing
-  + vilification of **poor** + immigrant; **abortion**
-  + also **my** own sin + self-righteousness
 
 ---
 >>>
++ e.g., systematic **racism** in policing
+  + vilification of **poor** + immigrant; **abortion**
+  + also **my** own sin + self-righteousness
 + This is why Christ **died** for us:
   + didn't **hand-wave** away the problem of evil
   + but **paid** for it w/own life
-+ The reality is God is **not** fair to us
-  + He **chooses** to show us grace
++ The reality is God is **not** fair to us: **chooses** to show grace
 + Will I choose **grace** toward others?
-+ "But they don't **deserve** my respect!"
-  + No, they **don't** --
++ "But they don't **deserve** my respect!" -- No, they **don't**
 + Nor did I deserve Christ's **sacrifice**:
   + Grace is **unfair**
 
