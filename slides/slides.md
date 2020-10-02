@@ -141,14 +141,14 @@ he remembers that we are dust.
   + and His **interaction** with us:
 
 ---
-<!-- .slide: <%= bg("unsplash-EpbIXGCrtK0-baby_feet.jpg") %> -->
+<!-- .slide: <%= bg("unsplash-1k5Qq4YQM0g-mtn_lake_sunset.jpg") %> -->
 The Lord is **merciful** and **gracious**,
 
 slow to anger and  <br>
 abounding in steadfast love.
 
 [Psalm 103:8 (ESV)](# "ref")
-[Janko Ferlič, Koper, Slovenia](https://unsplash.com/photos/EpbIXGCrtK0 "caption")
+[Mark Basarab](https://unsplash.com/photos/1k5Qq4YQM0g "caption")
 
 >>>
 + **Combo** compassionate + gracious: 11x in OT
@@ -162,11 +162,13 @@ abounding in steadfast love.
   + Descended in **cloud**, passed before Moses:
 
 ---
+<!-- .slide: <%= bg("unsplash-JV78PVf3gGI-nepal_mtns.jpg") %> -->
 The Lord, the Lord, a God **merciful** and **gracious**, <br>
 slow to **anger**, and abounding in <br>
 **steadfast love** and faithfulness
 
 [Exodus 34:6 (ESV)](# "ref")
+[Langtang National Park, Nepal. Sergey Pesterev](https://unsplash.com/photos/JV78PVf3gGI "caption")
 
 >>>
 + Same: **compassion** + **grace**
@@ -321,6 +323,7 @@ so far does he remove  <br>
   + changes our **aim** / dir. Rom8:
 
 ---
+<!-- .slide: <%= bg("unsplash-8MbdD0pHXGY-italy_mtn.jpg") %> -->
 For I am sure that neither **death** nor **life**,<br>
 nor angels nor **rulers**, <br>
 nor things present nor things to **come**, <br>
@@ -331,6 +334,7 @@ will be able to **separate** us from the **love** of God <br>
 in **Christ Jesus** our Lord
 
 [Romans 8:38-39 (ESV)](# "ref")
+[Dolomites, Italy. Joshua Earle](https://unsplash.com/photos/8MbdD0pHXGY "caption")
 
 >>>
 + **Challenges** facing our world are indeed immense
@@ -346,7 +350,7 @@ in **Christ Jesus** our Lord
 
 ---
 <!-- .slide: data-background="white" -->
-# Will I centre myself on the **immensity** of God's love?
+# Will I centre myself on the **immensity** <br> of God's love?
 
 >>>
 + Take the focus off of the **pain** / trauma
@@ -392,7 +396,7 @@ to those who **fear** him.
   + God replies (Is49):
 
 ---
-<!-- .slide: <%= bg("unsplash-WJkc3xZjSXw-trees_overhead.jpg") %> -->
+<!-- .slide: <%= bg("unsplash-EpbIXGCrtK0-baby_feet.jpg") %> -->
 Can a woman forget her nursing **child**, <br>
 that she should have no **compassion**  <br>
 on the son of her womb?
@@ -401,7 +405,7 @@ Even these may forget, <br>
 yet I will **not forget** you.
 
 [Isaiah 49:15-16 (ESV)](# "ref")
-[Geran de Klerk, Gävle, Sweden](https://unsplash.com/photos/WJkc3xZjSXw "caption")
+[Janko Ferlič, Koper, Slovenia](https://unsplash.com/photos/EpbIXGCrtK0 "caption")
 
 >>>
 + Same word: **compassion**
@@ -413,10 +417,12 @@ yet I will **not forget** you.
 + Remembers us, in order to have **mercy** on us:
 
 ---
+<!-- .slide: <%= bg("unsplash-WJkc3xZjSXw-trees_overhead.jpg") %> -->
 For he knows our **frame**; <br>
 he remembers that **we are dust**.
 
 [Psalm 103:13 (ESV)](# "ref")
+[Geran de Klerk, Gävle, Sweden](https://unsplash.com/photos/WJkc3xZjSXw "caption")
 
 >>>
 + **Frame**: intent, purpose, handiwork
