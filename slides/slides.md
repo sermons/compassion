@@ -2,14 +2,24 @@
 # Compassionate Father
 ## Psalm 103:8-14
 
+>>>
++ you are **hurting**
++ **Injustice**, even **evil** in world
++ Wounded by those **closest** to us
+  + who often don't even **ack** they've hurt us
++ Broken bc **own** sin: know better, trying
+  + but still **fail**, let down God, others, self
++ **Where** is God in the midst of our **hurt**?
+  + 1. Is He **able** to save?  Is He there?
+  + 2:
+
 ---
 <!-- .slide: data-background="white" -->
-# Is God **good**?
+# Does God **care** for us?
 
 >>>
-+ for **all** of us:
-  + take **comfort** knowing God is the God of compassion
-  + take **courage** to show compassion to one another
++ take **comfort** knowing God is the God of compassion
++ take **courage** to show compassion to one another
 
 ---
 <!-- .slide: <%= bg("unsplash-TStNU7H4UEE-hand_sunset.jpg") %> -->
