@@ -3,23 +3,33 @@
 ## Psalm 103:8-14
 
 >>>
-+ you are **hurting**
++ You are **hurting**:
 + **Injustice**, even **evil** in world
 + Wounded by those **closest** to us
   + who often don't even **ack** they've hurt us
 + Broken bc **own** sin: know better, trying
-  + but still **fail**, let down God, others, self
+  + yet still **fail**: let down God, others, self
 + **Where** is God in the midst of our **hurt**?
   + 1. Is He **able** to save?  Is He there?
   + 2:
 
 ---
 <!-- .slide: data-background="white" -->
-# Does God **care** for us?
+# Does God **care** about us?
 
 >>>
-+ take **comfort** knowing God is the God of compassion
++ Does He **love** us?
++ As we turn to today's **passage**:
++ take **comfort** knowing God is God of compassion
 + take **courage** to show compassion to one another
+
+______
+
++ Long to **know** You
+  + when seem **distant** / uncaring
++ Reveal to us Your **nature** / character
+  + and Your **dealings** with us
++ Reveal to us **who** we are as Your children
 
 ---
 <!-- .slide: <%= bg("unsplash-TStNU7H4UEE-hand_sunset.jpg") %> -->
@@ -35,8 +45,7 @@ and forget not all his **benefits**,
 [Psalm 103:1-2 (ESV)](# "ref")
 
 >>>
-Review:
-+ Reading Bible: authored by **God**, for **our** benefit
++ Bible: authored by **God**, for **our** benefit
   + About **God**, about **us**, **command**, or **promise**
 + **benefits**: dealings w/man
 + **character** of God exhibited
