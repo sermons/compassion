@@ -323,7 +323,7 @@ so far does he remove  <br>
   + changes our **aim** / dir. Rom8:
 
 ---
-<!-- .slide: <%= bg("unsplash-8MbdD0pHXGY-italy_mtn.jpg") %> -->
+<!-- .slide: <%= bg("unsplash-rdwkamJlpiU-mist-mtns.jpg") %> -->
 For I am sure that neither **death** nor **life**,<br>
 nor angels nor **rulers**, <br>
 nor things present nor things to **come**, <br>
@@ -334,7 +334,7 @@ will be able to **separate** us from the **love** of God <br>
 in **Christ Jesus** our Lord
 
 [Romans 8:38-39 (ESV)](# "ref")
-[Dolomites, Italy. Joshua Earle](https://unsplash.com/photos/8MbdD0pHXGY "caption")
+[Savoie, France. Thomas Tixtaaz](https://unsplash.com/photos/rdwkamJlpiU "caption")
 
 >>>
 + **Challenges** facing our world are indeed immense
