@@ -190,6 +190,13 @@ nor **repay** us according to **our iniquities**.
   + "keep" ("anger" only implied): **preserve**, maintain
 + "deal": **make**
   + "repay": **settle accounts**, make full, ripe/wean
++ Not that God **ignores** / blind to sin
+  + "don't **worry** about evils of world"
+  + "everything will be **ok**"
++ No, God is a **holy** God
+  + systematic **racism** in policing is serious issue
+  + vilification of **poor** + immigrant; **abortion**
+  + so is **my** own sin + self-righteousness
 + how often our words full of **complaints** 
   + parents: kids never **listen**
   + kids: parents only care about **academics**
@@ -300,11 +307,7 @@ to his **children**,
 so the Lord shows **compassion**  <br>
 to those who fear him.
 
-[14](# "ref") 
-For he knows our **frame**; <br>
-he remembers that **we are dust**.
-
-[Psalm 103:13-14 (ESV)](# "ref")
+[Psalm 103:13 (ESV)](# "ref")
 [Steven Van Loy, Biarritz, France](https://unsplash.com/photos/oUhSla4L_98 "caption")
 
 >>>
@@ -314,11 +317,32 @@ he remembers that **we are dust**.
 + we have no natural **right**/entitlement to any bond w/God
   + but **adopted** in Christ
 + e.g., JJ drawing: **hearts** connected
-+ if **mother** forgets her infant, **God** won't forget us
-+ we get so **proud** of our earned status / position
-  + edu, **job** title
-  + responsibilities at **church**
++ when we feel as though God has **forgotten** us:
+
+---
+Can a woman forget her nursing **child**, <br>
+that she should have no **compassion**  <br>
+on the son of her womb?
+
+Even these may forget, <br>
+yet I will **not forget** you.
+
+16
+Behold, I have **engraved** you  <br>
+on the **palms** of my hands; <br>
+your **walls** are continually before me.
+
+[Isaiah 49:15-16 (ESV)](# "ref")
+>>>
 + remember we are but **dust**
+
+---
+For he knows our **frame**; <br>
+he remembers that **we are dust**.
+
+[Psalm 103:13 (ESV)](# "ref")
+
+>>>
 + **frame**: intent, purpose, handiwork
   + God put **thought** into how He made us
   + our capacity to **think** comes from Him
