@@ -1,6 +1,6 @@
 <!-- .slide: <%= bg("unsplash-FrlCwXwbwkk-grass.jpg") %> id="title" --> 
-# Compassionate Father
-## Psalm 103:8-14
+# Compassionate Father <br> 憐憫的父神
+## Psalm 詩篇 103:8-14
 
 >>>
 + You are **hurting**:
@@ -15,7 +15,7 @@
 
 ---
 <!-- .slide: data-background="white" -->
-# Does God **care** about us?
+# Does God **care** about us? <br> 神在乎我們嗎?
 
 >>>
 + Does He **love** us?
@@ -128,10 +128,10 @@ he remembers that we are dust.
 
 ---
 <!-- .slide: <%= bg("unsplash-FrlCwXwbwkk-grass.jpg") %> id="outline" class="outline" --> 
-## Compassionate Father
-1. The **Injustice** of God's Grace [(v9-10)](# "ref")
-1. The **Immensity**  <br> of God's Love [(v11-12)](# "ref")
-1. The **Insignificance** <br> of our Strength [(v13-14)](# "ref")
+## Compassionate Father 憐憫的父神
+1. The **Injustice** of God's Grace 神恩典的不公平 [(v9-10)](# "ref")
+1. The **Immensity**  <br> of God's Love 神慈愛的廣大 [(v11-12)](# "ref")
+1. The **Insignificance** <br> of our Strength 我們力量的微小 [(v13-14)](# "ref")
 
 >>>
 + Doesn't **deal** w/us in anger, acc. to our **sins**
@@ -247,7 +247,7 @@ nor **repay** us according to **our iniquities**.
 
 ---
 <!-- .slide: data-background="white" -->
-# Do I seek excuses to vent **anger**, <br> or to show **grace**?
+# Do I seek excuses to vent **anger**, <br> or to show **grace**? <br> 我要找藉口發怒還是要表現恩典？
 
 >>>
 + Eager to be **cut off** on highway:
@@ -350,7 +350,7 @@ in **Christ Jesus** our Lord
 
 ---
 <!-- .slide: data-background="white" -->
-# Will I centre myself on the **immensity** <br> of God's love?
+# Will I centre myself on the **immensity** <br> of God's love? <br> 我會將自己專注在神廣大的慈愛中嗎？
 
 >>>
 + Take the focus off of the **pain** / trauma
@@ -439,7 +439,7 @@ he remembers that **we are dust**.
 
 ---
 <!-- .slide: data-background="white" -->
-# Am I the small **child** before the compassionate **Father**?
+# Am I the small **child** before the compassionate **Father**? <br> 我會是那在憐憫的父神前的小小孩嗎？
 
 >>>
 + The Lord is **compassionate** + **gracious**
