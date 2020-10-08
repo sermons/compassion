@@ -128,10 +128,10 @@ he remembers that we are dust.
 
 ---
 <!-- .slide: <%= bg("unsplash-FrlCwXwbwkk-grass.jpg") %> id="outline" class="outline" --> 
-## Compassionate Father 憐憫的父神
-1. The **Injustice** of God's Grace 神恩典的不公平 [(v9-10)](# "ref")
-1. The **Immensity**  <br> of God's Love 神慈愛的廣大 [(v11-12)](# "ref")
-1. The **Insignificance** <br> of our Strength 我們力量的微小 [(v13-14)](# "ref")
+## Compassionate Father <br> 憐憫的父神
+1. The **Injustice** of God's Grace <br> 神恩典的不公平 [(v9-10)](# "ref")
+1. The **Immensity** of God's Love <br> 神慈愛的廣大 [(v11-12)](# "ref")
+1. The **Insignificance** of our Strength <br> 我們力量的微小 [(v13-14)](# "ref")
 
 >>>
 + Doesn't **deal** w/us in anger, acc. to our **sins**
@@ -260,10 +260,10 @@ nor **repay** us according to **our iniquities**.
 
 ---
 <!-- .slide: <%= bg("unsplash-FrlCwXwbwkk-grass.jpg") %> class="outline" --> 
-## Compassionate Father
-1. The Injustice of God's Grace [(v9-10)](# "ref")
-1. **The Immensity  <br> of God's Love** [(v11-12)](# "ref")
-1. The Insignificance <br> of our Strength [(v13-14)](# "ref")
+## Compassionate Father <br> 憐憫的父神
+1. The Injustice of God's Grace <br> 神恩典的不公平 [(v9-10)](# "ref")
+1. **The Immensity of God's Love** <br> **神慈愛的廣大** [(v11-12)](# "ref")
+1. The Insignificance of our Strength <br> 我們力量的微小 [(v13-14)](# "ref")
 
 >>>
 + As we **learn** more of God's nature, we see
@@ -360,10 +360,10 @@ in **Christ Jesus** our Lord
 
 ---
 <!-- .slide: <%= bg("unsplash-FrlCwXwbwkk-grass.jpg") %> class="outline" --> 
-## Compassionate Father
-1. The Injustice of God's Grace [(v9-10)](# "ref")
-1. The Immensity  <br> of God's Love [(v11-12)](# "ref")
-1. **The Insignificance <br> of our Strength** [(v13-14)](# "ref")
+## Compassionate Father <br> 憐憫的父神
+1. The Injustice of God's Grace <br> 神恩典的不公平 [(v9-10)](# "ref")
+1. The Immensity of God's Love <br> 神慈愛的廣大 [(v11-12)](# "ref")
+1. **The Insignificance of our Strength** <br> **我們力量的微小** [(v13-14)](# "ref")
 
 >>>
 + Grace isn't **fair**: 
@@ -439,7 +439,8 @@ he remembers that **we are dust**.
 
 ---
 <!-- .slide: data-background="white" -->
-# Am I the small **child** before the compassionate **Father**? <br> 我會是那在憐憫的父神前的小小孩嗎？
+## Am I the small **child** before the compassionate **Father**? 
+# 我會是那在憐憫的<br>父神前的小小孩嗎？
 
 >>>
 + The Lord is **compassionate** + **gracious**
