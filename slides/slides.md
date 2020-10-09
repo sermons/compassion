@@ -38,9 +38,15 @@ ______
 and all that is within me,<br>
 bless his holy name!
 
+我的心哪，你要稱頌耶和華！<br>
+凡在我裡面的，也要稱頌他的聖名！
+
 [2](# "ref")
 Bless the Lord, O my soul,<br>
 and forget not all his **benefits**,
+
+我的心哪，你要稱頌耶和華！<br>
+不可忘記他的一切恩惠！
 
 [Psalm 103:1-2 (ESV)](# "ref")
 
